@@ -38,4 +38,3 @@ Do not use this with expensive computer, audio, music or electronic equipment, i
 All information is provided AS IS with no implied fit for purpose as detailed in the included MIT License.
 
 All content and code (c) diyelectromusic (Kevin)
-* 
