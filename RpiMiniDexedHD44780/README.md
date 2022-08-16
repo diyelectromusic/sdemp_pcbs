@@ -3,7 +3,7 @@
 This is an IO module for MiniDexed running on a Raspberry Pi.  It provides a 16x2 HD44780 based LCD display, GY-PCM5102 module DAC, a serial MIDI IN, OUT and THRU ports and a rotary encoder and optional buttons as an interface.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/07/28/minidexed-raspberry-pi-io-board/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/08/16/minidexed-raspberry-pi-io-board-part-3/
 
 Bill of Materials:
 - Raspberry Pi MiniDexed IO Module (HD44780 Version) PCB.
