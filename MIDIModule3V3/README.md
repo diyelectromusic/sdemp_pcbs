@@ -3,7 +3,7 @@
 A MIDI IN/OUT module for use with 3V3 microcontrollers.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/08/29/3v3-midi-module-pcb/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/09/05/3v3-midi-module-pcb-part-2/
 
 Bill of Materials:
 - MIDI Module 3V3 PCB.
@@ -29,7 +29,7 @@ Please note - I consider myself a novice at pcb design!
 
 **Don't spend your own time and resources on any of these designs without knowing what you are doing.  They are not "off the shelf products" ready to go!**
 
-Do not use this with expensive computer, audio, music or electronic equipment, it is for hobby use only.  For more details, see https://diyelectromusic.wordpress.com/
+Do not use this with expensive computer, audio, music or electronic equipment, it is for hobby use only.  For more details, see https://diyelectromusic.wordpress.com/pcbs/
 
 # License
 
