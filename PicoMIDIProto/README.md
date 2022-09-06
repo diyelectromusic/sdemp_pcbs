@@ -3,7 +3,7 @@
 A MIDI IN/OUT module for the Raspberry Pi Pico with an additional expansion area.  The module has an option to be linked to either UART 0 (GP00/GP01) or UART 1 (GP04/GP05).
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/08/29/raspberry-pi-pico-midi-proto-expander/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/09/06/raspberry-pi-pico-midi-proto-expander-part-2/
 
 Bill of Materials:
 - Pico MIDI expansion PCB.
