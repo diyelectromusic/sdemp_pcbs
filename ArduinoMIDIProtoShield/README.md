@@ -3,7 +3,7 @@
 A MIDI IN/OUT interface for an Arduino Uno, in shield format with a built-in prototyping area.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/08/29/arduino-midi-proto-shield/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/09/13/arduino-midi-proto-shield-part-2/
 
 Bill of Materials:
 - Arduino MIDI Proto Shield PCB.
