@@ -3,7 +3,7 @@
 This provides a six-IN, six-OUT MIDI router based on the Raspberry Pi Pico, using both hardware UARTs and four PIO serial ports.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/08/29/raspberry-pi-pico-multi-midi-router-part-4/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/09/19/raspberry-pi-pico-multi-midi-router-part-5/
 
 Bill of Materials:
 - Pico MIDI Router PCB.
