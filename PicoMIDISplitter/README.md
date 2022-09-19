@@ -2,8 +2,8 @@
 
 This provides a eight-OUT MIDI splitter based on the Raspberry Pi Pico.  The eight OUT ports are linked to PIO serial ports.  UART 0 is linked to additional MIDI IN and OUT ports.
 
-- Design notes: 
-- Build and test notes: 
+- Design notes: https://diyelectromusic.wordpress.com/2022/08/29/raspberry-pi-pico-midi-splitter/
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/09/19/raspberry-pi-pico-midi-splitter-part-2/
 
 Bill of Materials:
 - Pico MIDI Spliitter PCB.
