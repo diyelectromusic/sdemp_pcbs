@@ -3,7 +3,7 @@
 This is a design for a pcb "touch" keyboard. There are two variants, one with a silkscreen cover and one with bare pads.  The former designed for capacitive touch applications and the latter for either capacitive touch or a stylus.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/09/25/touch-keyboard-pcb/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/10/11/touch-keyboard-pcb-part-2/
 
 Bill of Materials:
 - Touch Keyboard PCB.
