@@ -3,7 +3,7 @@
 This is a design for an IO board PCB for a Raspberry Pi Zynthian Synth module. It is specifically designed to be used with a Waveshare 4inch HDMI Resistive Touch Display.  It supports connections for four rotary encoders, a PCM5102 DAC and MIDI IN, OUT, THRU.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/09/25/zynthian-revisited-part-3/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/10/16/zynthian-revisited-part-4/
 
 Bill of Materials (for the IO board, not a complete Zynthian):
 - Zynthian IO Board PCB
