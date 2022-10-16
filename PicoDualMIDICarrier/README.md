@@ -3,7 +3,7 @@
 This could be used as a general Raspberry Pi Pico carrier board to connect it to up to six MIDI modules, but really it is designed for a bespoke dual MIDI module designed by @VE7FIM.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/09/25/raspberry-pi-pico-dual-midi-carrier/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/10/16/raspberry-pi-pico-dual-midi-carrier-part-2/
 
 Bill of Materials:
 - Pico Dual MIDI Carrier PCB.
