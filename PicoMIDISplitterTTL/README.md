@@ -3,7 +3,7 @@
 This provides a eight-OUT MIDI splitter based on the Raspberry Pi Pico.  The eight OUT TX ports are linked to PIO serial ports.  UART 0 is linked to additional MIDI IN and OUT ports.  The eight TX ports are designed to connect directly to the 5V RX input of another microcontroller.  Do not use with a 3V3 microcontroller unless it is 5V tolerant.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/09/25/raspberry-pi-pico-midi-splitter-ttl/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/10/17/raspberry-pi-pico-midi-splitter-ttl-part-2/
 
 Bill of Materials:
 - Pico MIDI Spliitter TTL PCB.
