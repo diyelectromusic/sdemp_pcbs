@@ -2,8 +2,8 @@
 
 This is a design for an IO board PCB for a Raspberry Pi V1 Model B - the one with the 26-way GPIO header and additional P5 IO header.  It provides serial MIDI IN and OUT, a PCM5102 DAC and up to eight analog inputs via an MCP3008.
 
-- Design notes: 
-- Build and test notes: 
+- Design notes: https://diyelectromusic.wordpress.com/2022/09/25/raspberry-pi-v1-model-b-synth-board-part-2/
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/10/20/raspberry-pi-v1-model-b-synth-board-part-3/
 
 Bill of Materials:
 - Raspberry Pi V1 Synth IO Board PCB
