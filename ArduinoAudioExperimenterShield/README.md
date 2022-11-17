@@ -3,7 +3,7 @@
 A shield for an Arduino Uno, that provides MIDI IN/OUT, a R2R ladder, PWM output and connections for a MCP4725 DAC module.
 
 - Design notes: https://diyelectromusic.wordpress.com/2022/11/01/arduino-audio-experimenter-shield-pcb/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2022/11/17/arduino-audio-experimenter-shield-pcb-part-2/
 
 Bill of Materials:
 - Arduino Audio Experimenter Shield PCB.
