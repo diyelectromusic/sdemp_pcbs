@@ -11,6 +11,7 @@ Bill of Materials:
 - 3x 3-way header pins
 - 5x Jumpers.
 - Arduino headers: pins or sockets, but note that extended headers will be required for a "USB B socket" Uno.
+
 MIDI Section:
 - 1x 6N138 optoisolator.
 - 4x 220R resistors.
@@ -19,14 +20,17 @@ MIDI Section:
 - 1x 100nF ceramic capacitor.
 - 2x 5-pin DIN – pcb mounted (see PCB and photos for footprint).
 - Optional: 1x 8-pin DIP chip socket.
+
 R2R Section:
 - 7x 10K resistors.
 - 9x 20K resistors.
+
 PWM Section:
 - 1x 75R resistor.
 - 1x 270R resistor.
 - 1x 68nF ceramic capacitor.
 - 1x 10uF electrolytic or non-polar capacitor.
+
 DAC Section:
 - MCP4725 DAC module with pinout: OUT-GND-SCL-SDA-VCC-GND
 - Optional: 1x 6-way pin header socket.
