@@ -12,8 +12,8 @@ Bill of Materials:
 - 1x 74HCT14 hex inverter.
 - 1x GY-PCM5102 DAC module.
 - 1x 16x2 HD44780 LCD (not the I2C version).
-- 5x 220O resistor.
-- 1x 4K7O resistor.
+- 5x 220R resistor.
+- 1x 470R resistor.
 - 1x 1N914 or 1N4148 diode.
 - 3x 100nF ceramic capacitors.
 - 5x 10nF ceramic capacitors.

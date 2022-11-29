@@ -9,8 +9,8 @@ Bill of Materials:
 - MIDI merge PCB.
 - Arduino Uno.
 - 2x 6N138 optoisolators.
-- 6x 220O resistors.
-- 2x 4K7O resistors.
+- 6x 220R resistors.
+- 2x 4K7 resistors.
 - 2x 1N914 diodes.
 - 2x 100nF ceramic capacitors.
 - 3x 5-pin DIN – pcb mounted (see PCB and photos for footprint).

@@ -11,8 +11,8 @@ Bill of Materials:
 - 1x H11L1 optoisolator.
 - 1x GY-PCM5102 DAC module.
 - 1x SSD1306 128x32 OLED I2C display (pinout SDA-SCL-5V-GND).
-- 1x 220O resistor.
-- 1x 4K7O resistor.
+- 1x 220R resistor.
+- 1x 470R resistor.
 - 1x 1N914 or 1N4148 diode.
 - 2x 100nF ceramic capacitors.
 - 5x 10nF ceramic capacitors.

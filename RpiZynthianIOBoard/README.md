@@ -11,8 +11,8 @@ Bill of Materials (for the IO board, not a complete Zynthian):
 - 1x GY-PCM1502 module
 - 1x H11L1 optoisolator
 - 1x 74HCT14 hex inverter (must be HCT version, not the HC version)
-- 2x 220O resistors
-- 1x 470O resistor
+- 5x 220R resistors
+- 1x 470R resistor
 - 1x 9N419 or 1N4148 signal diode
 - 12x 10nF ceramic capacitors
 - 3x 100nF ceramic capacitors
