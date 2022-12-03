@@ -13,13 +13,17 @@ Bill of Materials:
 - 1x 1N914 or 1N4148 diode.
 - 1x 100nF ceramic capacitor.
 - 2x 5-pin DIN – pcb mounted (see PCB and photos for footprint).
+-- OR 2x TRS stereo jack sockets - pcb mounted - V2 only.
 - Optional: 1x 8-pin DIP chip socket.
 - 2x 2-way header pins.
 - 2x Jumpers.
+-- OR 1x DPDT PCB mounted switch - V2 only.
 - Arduino headers: pins or sockets, but note that extended headers will be required for a "USB B socket" Uno.
 
 Errata:
 - None.
+
+Note: There is now a V2 of this board which provides the option of using TRS or DIN MIDI sockets.
 
 If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectromusic
 
