@@ -19,7 +19,7 @@ Bill of Materials:
 - 1x 4-way header pins.
 
 Errata:
-- None.
+- The schematic and PCB show a 100uF capacitor when it should be 100nF.
 
 If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectromusic
 
