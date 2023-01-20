@@ -17,13 +17,17 @@ Bill of Materials:
 - Optional: 1x 8-pin DIP chip socket.
 - 2x 2-way header pins.
 - 2x Jumpers.
--- OR 1x DPDT PCB mounted switch - V2 only.
+-- OR 1x DPDT PCB mounted switch (V2/3 only).
 - Arduino headers: pins or sockets, but note that extended headers will be required for a "USB B socket" Uno.
+- Optional: Additional Arduino headers (V3 only) for IO pin breakouts.
 
 Errata:
 - None.
 
-Note: There is now a V2 of this board which provides the option of using TRS or DIN MIDI sockets.
+Versions:
+* V1: MIDI DIN sockets only.
+* V2: MIDI DIN or Type A TRS sockets; optional MIDI disable switch.
+* V3: As V2 with additional IO breakout pads either side of the Arduino headers.
 
 If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectromusic
 
