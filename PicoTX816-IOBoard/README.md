@@ -3,7 +3,7 @@
 This is the IO board for a TX816 style interface for MiniDexed running on a Raspberry Pi 3 or 4.
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/01/22/minidexed-tx816-part-2-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/01/28/minidexed-tx816-part-4b-pcb-build-guide-io-board/
 
 Bill of Materials:
 - MiniDexed TX816 IO Board PCB
