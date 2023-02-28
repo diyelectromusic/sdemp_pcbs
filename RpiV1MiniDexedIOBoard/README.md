@@ -3,7 +3,7 @@
 This is a design for an IO board PCB for a Raspberry Pi V1 Model B based MiniDexed synthesizer.  This is the one with the 26-way GPIO header and additional P5 IO header.  It provides serial MIDI IN and OUT via either DIN or TRS sockets, a PCM5102 DAC, SSD1306 OLED display, rotary encoder, and switches.
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/02/26/minidexed-raspberry-pi-v1-io-board/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/02/28/minidexed-raspberry-pi-v1-io-board-part-2/
 
 Bill of Materials:
 - Raspberry Pi V1 MiniDexed IO Board PCB
