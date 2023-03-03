@@ -3,7 +3,7 @@
 A potentiometer breakout board for use with microcontrollers allowing for either direct connection of PCB mounted potentiometers, use of a 4051 multiplexer or the use of a MCP3008 SPI IO expander.
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/03/03/analog-io-board-pcb/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/03/03/analog-io-board-pcb-part-2/
 
 Bill of Materials:
 - Analog IO Board PCB.
