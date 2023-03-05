@@ -3,7 +3,7 @@
 This is a tactile button music keyboard which supports a ROWS/COLS style interface; an on-board Arduino Nano; or a 74HC138 interface.
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/03/04/tactile-button-keyboard-pcb/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/03/05/tactile-button-keyboard-pcb-part-2/
 
 Bill of Materials:
 
