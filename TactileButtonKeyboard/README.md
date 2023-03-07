@@ -11,9 +11,9 @@ Bill of Materials:
 - 12 or 13x 1N914 or 1N4148 signal diodes.
 - Optional: 2x 15-way pin header sockets (for the Arduino Nano).
 - If a 74HC138 is to be used, then the following are required.  But note that in the current version of the PCB this DOES NOT WORK without patching!
--- Optional: 1x 74HC138.
--- Optional: 1x 100nF ceramic capacitor (for the 74HC138).
--- Optional: 1x 16-way DIP socket (for the 74HC138).
+  - Optional: 1x 74HC138.
+  - Optional: 1x 100nF ceramic capacitor (for the 74HC138).
+  - Optional: 1x 16-way DIP socket (for the 74HC138).
 - Pin headers.
 
 Errata:
