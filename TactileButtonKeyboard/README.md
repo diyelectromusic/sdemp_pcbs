@@ -6,6 +6,15 @@ This is a tactile button music keyboard which supports a ROWS/COLS style interfa
 - Build and test notes: https://diyelectromusic.wordpress.com/2023/03/05/tactile-button-keyboard-pcb-part-2/
 
 Bill of Materials:
+- Tactile Button Keyboard PCB
+- 12 or 13x tactile buttons.
+- 12 or 13x 1N914 or 1N4148 signal diodes.
+- Optional: 2x 15-way pin header sockets (for the Arduino Nano).
+- If a 74HC138 is to be used, then the following are required.  But note that in the current version of the PCB this DOES NOT WORK without patching!
+-- Optional: 1x 74HC138.
+-- Optional: 1x 100nF ceramic capacitor (for the 74HC138).
+-- Optional: 1x 16-way DIP socket (for the 74HC138).
+- Pin headers.
 
 Errata:
 - The connections to the 74HC138 EN pins are backwards, meaning this DOES NOT WORK without patching.
