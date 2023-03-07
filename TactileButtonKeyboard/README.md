@@ -8,7 +8,12 @@ This is a tactile button music keyboard which supports a ROWS/COLS style interfa
 Bill of Materials:
 
 Errata:
-- The diodes are the wrong way round for use with the 74HC138. See design and build notes for details!
+- The connections to the 74HC138 EN pins are backwards, meaning this DOES NOT WORK without patching.
+- The diodes are also the wrong way round to support use with the 74HC138 regardless.
+- The HC138 outputs are wired up back to front.
+- The ROWS and COLS indications do not match the terminology used with the Arduino Keypad Library if the diodes are reversed.
+
+Basically trying to use the board with the HC138 is a mess.  Sorry about that.  See design and build notes for details of the whole sorry mess! But using it with an Arduino directly isn't too bad!
 
 If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectromusic
 
