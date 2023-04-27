@@ -24,7 +24,7 @@ Bill of Materials:
 - Optional: 1x 2-way header pins.
 
 Errata:
-- None.
+- The silkscreen labels for the IO breakouts near the prototyping area for A0 to A6 are back to front.  Pin 6 is actually at the bottom and pin 0 is next to pin 7.
 
 If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectromusic
 
