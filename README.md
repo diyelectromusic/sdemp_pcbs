@@ -14,13 +14,17 @@ An old, second-hand or hand-me-down music keyboard, computer and amplification a
 
 # Using my pcbs
 
-These are all developed in KiCad (https://www.kicad.org/) and there should be everything here required to have any of them built should you so wish.  Be sure to note any additional information in the readme for each project and please read carefully the design and build information from the blog before spending any time or funds on any of these designs as that is where I will have documented my (countless, no doubt) mistakes in the design!
+These are all developed in KiCad (https://www.kicad.org/) and there should be everything here required to have any of them built should you so wish.  Each project has a "gerbers" or "output" directory and that contains all the build files and a combined ZIP file that can be downloaded "raw" and uploaded to your favourite PCB manufacturing site.
+
+IMPORTANT: Be sure to note any additional information in the readme for each project and please read carefully the design and build information from the blog before spending any time or funds on any of these designs as that is where I will have documented my (countless, no doubt) mistakes in the design!
 
 For more context, see https://diyelectromusic.wordpress.com/pcbs/
 
 *Please also note: I don't sell PCBs.*
 
 These are for my own personal hobby use, but I'm very happy for anyone to take them as inspiration for their own projects (given the warnings, caveats and context above).  As I tend to get a batch of 10 boards at a time when ordering, it is possible that I might have one or two spare if there was something you were particularly interested in trying, so it is always worth dropping me a line somehow just in case.
+
+If you want the original KiCad design files, again drop me an email and I'll see what I can do - I haven't worked out how best to publish these yet tbh but will probably get round to it one day!
 
 If you've never designed or built a pcb before, neither had I until I started these.  My first "notes to self" on the process can be found here: https://diyelectromusic.wordpress.com/2022/06/13/arduino-uno-dual-merge-midi-shield-part-2/
 
