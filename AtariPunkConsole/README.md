@@ -3,7 +3,7 @@
 This is my take on the classic lo-fi electronic noise-maker!
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/09/02/atari-punk-console-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/09/02/atari-punk-console-pcb-build-guide/
 
 Bill of Materials:
 - Atari Punk Console PCB.
