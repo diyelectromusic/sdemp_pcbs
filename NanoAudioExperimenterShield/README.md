@@ -3,7 +3,7 @@
 A MIDI IN/OUT interface, with three potentiometers, filter for PWM out, optional MCP4725 DAC and SSD1306 display, for an Arduino Nano, in "carrier board" format.
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/11/12/nano-audio-experimenter-sheild-pcb/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/11/12/nano-audio-experimenter-sheild-pcb-build-guide/
 
 Bill of Materials:
 - Nano Audio Experimenter Shield PCB.
