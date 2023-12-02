@@ -3,7 +3,7 @@
 This is an IO module for MiniDexed running on a Raspberry Pi that is particularly suited to a Pi Zero.  It provides a small SSD1306 128x32 OLED display, optional GY-PCM5102 module DAC, and a rotary encoder and buttons as an interface.
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/12/02/rpi-zero-minidexed-io-board-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/12/02/rpi-zero-minidexed-io-board-pcb-build-guide/
 
 Bill of Materials:
 - Raspberry Pi Zero MiniDexed IO Module PCB.
