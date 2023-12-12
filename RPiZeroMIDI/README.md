@@ -3,7 +3,7 @@
 This is a MIDI module for the Raspberry Pi Zero, although it could be used pretty much with any Raspberry Pi format board with 3V3 voltage levels and a Raspberry Pi GPIO interface.
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/12/12/raspberry-pi-zero-midi-pcb/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/12/12/raspberry-pi-zero-midi-pcb-build-guide/
 
 Bill of Materials:
 - Raspberry Pi Zero MIDI PCB.
