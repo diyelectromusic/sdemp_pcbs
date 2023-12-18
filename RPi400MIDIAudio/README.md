@@ -3,7 +3,7 @@
 This is a MIDI and I2S audio module for the Raspberry Pi 400.  It also includes optional additional elements to support the user interface controls for MiniDexed.
 
 - Design notes: https://diyelectromusic.wordpress.com/2023/12/18/rpi-400-midi-and-audio-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.wordpress.com/2023/12/18/rpi-400-midi-and-audio-pcb-build-guide/
 
 Bill of Materials:
 - Raspberry Pi 400 MIDI and Audio PCB.
