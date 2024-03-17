@@ -5,8 +5,8 @@ This is a design for a PCB-based front panel for my Zynthian IO board.
 - Original Design notes: https://diyelectromusic.wordpress.com/2022/10/23/cd-rack-format-zynthian/
 - Panel build notes: https://diyelectromusic.wordpress.com/2024/03/17/cd-rack-format-zynthian-part-2/
 
-Bill of Materials (for the IO board, not a complete Zynthian):
-- Zynthian IO build as described in the above posts.
+Bill of Materials (for the Panel, not a complete Zynthian):
+- Zynthian IO board build as described in the above posts.
 - Zynthian IO Panel PCB.
 
 Errata:
