@@ -2,8 +2,8 @@
 
 A MIDI IN/OUT module for the Raspberry Pi Pico.  The module has an option to be linked to either UART 0 (GP00/GP01) or UART 1 (GP04/GP05).
 
-- Design notes: 
-- Build and test notes: 
+- Design notes: https://diyelectromusic.com/2024/06/15/pico-midi-pack-pcb-design/
+- Build and test notes: https://diyelectromusic.com/2024/06/15/pico-midi-pack-pcb-build-guide/
 
 Bill of Materials:
 - Pico MIDI pack PCB.
