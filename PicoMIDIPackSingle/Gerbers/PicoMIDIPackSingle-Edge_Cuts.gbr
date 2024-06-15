@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2024-05-31T08:48:14+01:00*%
+%TF.ProjectId,PicoMIDIPackSingle,5069636f-4d49-4444-9950-61636b53696e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2024-05-31 08:48:14*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X39310000Y-74070000D02*
+X60690000Y-74070000D01*
+X60690000Y-125930000D01*
+X39310000Y-125930000D01*
+X39310000Y-74070000D01*
+M02*
