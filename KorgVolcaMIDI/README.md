@@ -3,7 +3,7 @@
 This is a MIDI to CV converter that is particularly compatible with the CV-IN port of a Korg Volca Modular.
 
 - Design notes: https://diyelectromusic.com/2024/07/07/korg-volca-modular-midi-to-cv-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.com/2024/07/07/korg-volca-modular-midi-to-cv-pcb-build-guide/
 
 Bill of Materials:
 - Korg Volca MIDI to CV PCB.
