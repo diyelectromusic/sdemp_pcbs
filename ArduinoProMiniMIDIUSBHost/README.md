@@ -3,7 +3,7 @@
 This is a USB to serial MIDI board using either an Arduino Pro Mini or an Adafruit Trinket M0.
 
 - Design notes: https://diyelectromusic.com/2024/07/25/arduino-pro-mini-midi-usb-host-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.com/2024/07/25/arduino-pro-mini-midi-usb-host-pcb-build-guide/
 
 Bill of Materials:
 - Arduino Pro Mini MIDI USB HOST PCB (GitHub link below).
