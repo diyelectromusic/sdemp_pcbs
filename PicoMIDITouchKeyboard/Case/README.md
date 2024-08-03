@@ -4,7 +4,7 @@ Two STL files for a two-part case for the Pico Touch Keyboard.
 
 ![Photo of the OpenSCAD case](CaseOpenScad.png)
 
-| ![Photo of the case front](Front.jpg) | ![Photo of the case back](Back.jpg) |
+![Photo of the case front](Front.jpg) ![Photo of the case back](Back.jpg)
 
 Notes:
 * There are two parts, a base and top.
