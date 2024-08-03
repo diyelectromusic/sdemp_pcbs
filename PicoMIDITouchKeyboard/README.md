@@ -3,7 +3,8 @@
 A MIDI Touch keyboard controller using a Raspberry Pi Pico for USB or serial MIDI.
 
 - Design notes: https://diyelectromusic.com/2024/07/09/raspberry-pi-pico-midi-touch-keyboard-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.com/2024/07/09/raspberry-pi-pico-midi-touch-keyboard-pcb-build-guide/
+- 3D Printable Case in the "case" folder
 
 Bill of Materials:
 - Pico MIDI Touch Keyboard PCB.
