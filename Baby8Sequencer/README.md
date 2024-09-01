@@ -2,8 +2,8 @@
 
 This is an analog "Baby 8" style step sequencer designed for use with my Educational ESP32 Synth Thing.
 
-- Design notes: 
-- Build and test notes: 
+- Design notes: https://diyelectromusic.com/2024/09/01/baby8-cv-step-sequencer-part-2-pcb-design/
+- Build and test notes: https://diyelectromusic.com/2024/09/01/baby8-cv-step-sequencer-part-3-pcb-build-guide/
 
 Bill of Materials:
 - "Baby 8" CV Step Sequencer PCB
