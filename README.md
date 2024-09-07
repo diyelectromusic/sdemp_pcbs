@@ -12,6 +12,12 @@ Be particularly wary about plugging any of the circuits described in these proje
 
 An old, second-hand or hand-me-down music keyboard, computer and amplification are well worth the investment for experimenting - that is what I use for everything.
 
+# Support
+
+I do not offer support for any of these projects, there are provided "as is" (see license).
+
+But I will attempt to answer any queries posted to a public forum.  More here: https://diyelectromusic.wordpress.com/support/.
+
 # Using my pcbs
 
 These are all developed in KiCad (https://www.kicad.org/) and there should be everything here required to have any of them built should you so wish.  Each project has a "gerbers" or "output" directory and that contains all the build files and a combined ZIP file that can be downloaded "raw" and uploaded to your favourite PCB manufacturing site.
