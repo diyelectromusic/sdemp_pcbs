@@ -3,7 +3,7 @@
 A clock GATE/TRIGGER sequencer for an Arduino Uno, in shield format.
 
 - Design notes: https://diyelectromusic.com/2024/10/27/arduino-clock-generator-shield-pcb/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.com/2024/10/27/arduino-clock-generator-shield-pcb-build-guide/
 
 Bill of Materials:
 - Arduino Clock Generator Shield PCB.
