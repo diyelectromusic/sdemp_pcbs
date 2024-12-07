@@ -4,6 +4,7 @@ This is an analog "Baby 8" style step sequencer designed for use with my Educati
 
 - Design notes: https://diyelectromusic.com/2024/09/01/baby8-cv-step-sequencer-part-2-pcb-design/
 - Build and test notes: https://diyelectromusic.com/2024/09/01/baby8-cv-step-sequencer-part-3-pcb-build-guide/
+- [Simple 3D printable base](Baby8Case.stl)
 
 Bill of Materials:
 - "Baby 8" CV Step Sequencer PCB
