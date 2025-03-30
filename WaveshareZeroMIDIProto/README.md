@@ -29,7 +29,7 @@ Optional Power Circuit:
 - 1x 2-way pin header.
 
 Errata:
-- None.
+- Footprint for the Waveshare board is 2.54mm too wide (see notes).
 
 If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectromusic
 
