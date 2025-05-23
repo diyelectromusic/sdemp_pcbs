@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
+%TF.CreationDate,2025-05-07T21:37:47+01:00*%
+%TF.ProjectId,ArduinoProMiniUSBHostProto,41726475-696e-46f5-9072-6f4d696e6955,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2025-05-07 21:37:47*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X35850000Y-50000000D02*
+X137100000Y-50000000D01*
+X137100000Y-86500000D01*
+X35850000Y-86500000D01*
+X35850000Y-50000000D01*
+M02*
