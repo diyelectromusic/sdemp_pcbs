@@ -26,7 +26,9 @@ Bill of Materials:
 - Pin header sockets for microcontroller (optional).
 
 Errata:
-- There is an additional electrolytic capacitor on the PCB that should be left out and replaced with a wire link.
+- Are issues with the CV/PWM output circuit:
+  - The electrolytic capacitor should be replaced with a wire link.
+  - The 10nF and 220R resistors in the filter should be replaced with 100nF and 1K.
 
 If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectromusic
 
