@@ -41,3 +41,5 @@ If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectrom
 All information is provided AS IS with no implied fit for purpose as detailed in the included MIT License.
 
 All content and code (c) diyelectromusic (Kevin)
+
+There is no permission, direct or implied, for the contents of this repository to be used for the training of AI systems.
