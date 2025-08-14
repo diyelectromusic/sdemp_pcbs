@@ -3,7 +3,7 @@
 This is a MIDI IN/OUT module supporting up to four SPI displays for use with Waveshare Zero format microcontrollers.
 
 - Design notes: https://diyelectromusic.com/2025/08/14/waveshare-zero-multi-display-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.com/2025/08/14/waveshare-zero-multi-display-pcb-build-guide/
 
 Bill of Materials:
 - Waveshare Zero Multiple Display PCB.
