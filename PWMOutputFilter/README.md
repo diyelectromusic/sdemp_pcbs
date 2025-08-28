@@ -3,7 +3,7 @@
 A small breakout board for creating a stereo low-pass filter such as that required for PWM audio outputs.
 
 - Design notes: https://diyelectromusic.com/2025/08/28/simple-pwm-filter-pcb-design/
-- Build and test notes: 
+- Build and test notes: https://diyelectromusic.com/2025/08/28/simple-pwm-filter-pcb-build-guide/
 
 Bill of Materials:
 
