@@ -5,7 +5,7 @@ A simple Z80 NOP tester based on a design by Alberto Gonzalez.
 - Design and build notes: https://emalliab.wordpress.com/2026/06/11/rc2014-z80-nop-tester/
 
 Bill of Materials:
-- RC2014 Z80 NOP Tester PCB (GitHub link below).
+- RC2014 Z80 NOP Tester PCB
 - 1x Z80, 40-pin DIP to “test”.
 - 1x 555, 8-pin DIP
 - Resistors: 1x1K, 1x4K7, 1x5K6, 1x10K.
