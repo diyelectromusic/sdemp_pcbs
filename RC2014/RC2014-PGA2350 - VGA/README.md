@@ -3,7 +3,10 @@
 A plug-in board for RC2014 systems that will support ZX Spectrum style memory mapped video
 using a Pimoroni PGA2350 RP2350 module.
 
-- Design and build notes: https://emalliab.wordpress.com/2026/08/22/zx-spectrum-compatible-video-for-rc2014-part-2/
+V2 includes an optional 50 Hz /INT generator.
+
+- Design and build notes for V1: https://emalliab.wordpress.com/2026/08/22/zx-spectrum-compatible-video-for-rc2014-part-2/
+- Additional notes for V2: 
 
 Bill of Materials:
 - RC2014-PGA2350-VGA PCB
@@ -13,7 +16,12 @@ Bill of Materials:
 - 40-way right angle pin headers.
 - Round pin header sockets, cut to four 2×8 or 1x8 pieces
 - Pin headers.
-- Header Jumper.
+- Header Jumpers.
+Additional items for V2:
+- 74HCT14 (must be HCT not HC).
+- Optional 2x 3mm rectangular LEDs and resistors.
+
+The RP2350 firmware can be found here: https://github.com/diyelectromusic/sdemp/tree/main/src/Misc/PicoRC2014Video
 
 Errata:
 - None
