@@ -6,7 +6,7 @@ using a Pimoroni PGA2350 RP2350 module.
 V2 includes an optional 50 Hz /INT generator.
 
 - Design and build notes for V1: https://emalliab.wordpress.com/2026/08/22/zx-spectrum-compatible-video-for-rc2014-part-2/
-- Additional notes for V2: 
+- Additional notes for V2: https://emalliab.wordpress.com/2026/09/04/zx-spectrum-compatible-video-for-rc2014-part-3/
 
 Bill of Materials:
 - RC2014-PGA2350-VGA PCB
